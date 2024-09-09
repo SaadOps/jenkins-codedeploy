@@ -115,7 +115,7 @@ The CI/CD pipeline follows these key steps:
 2. Clone the repository containing the application code from GitHub:
 
     ```bash
-    https://github.com/SaadOps/oriserve-cicd-pipeline.git
+    https://github.com/SaadOps/jenkins-codedeploy.git
     ```
 
 3. Set up a Jenkins **pipeline**:
